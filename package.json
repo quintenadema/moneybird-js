@@ -1,0 +1,12 @@
+{
+  "name": "Moneybird JS SDK",
+  "version": "1.0.0",
+  "description": "Javascript SDK for Moneybird",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quinten Adema",
+  "license": "ISC"
+}
